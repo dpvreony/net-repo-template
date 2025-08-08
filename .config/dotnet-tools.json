@@ -9,7 +9,7 @@
       ]
     },
     "dotmorten.omdgenerator": {
-      "version": "1.5.1",
+      "version": "1.5.2",
       "commands": [
         "generateomd"
       ]
