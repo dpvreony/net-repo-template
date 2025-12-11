@@ -21,7 +21,7 @@ jobs:
       pull-requests: write
       packages: read
       security-events: write
-    uses: dpvreony/github-action-workflows/.github/workflows/dotnet-ci.yml@834b65f9367b3b8c76b178bb1ab171bb9b65ad81
+    uses: dpvreony/github-action-workflows/.github/workflows/dotnet-ci.yml@1.4.2
     with:
       buildOs: "linux"
       solutionName: ""
